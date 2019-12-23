@@ -10,8 +10,8 @@ There have been two builds released:
 - v3 contains the original build  
 - v4 contains the original build + a Holo DLC 
 
-Controls: 
-a,d,w,s: movement; 
+Controls:   
+a,d,w,s: movement;  
 e: fire weapon;  
 space: pause;  
 
