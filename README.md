@@ -4,7 +4,7 @@ Padoru Simulator
 Hello there
 
 Padoru Simulator is spread over two zip files: one containing what's needed to run the program, the other containing the data. 
-Put them both into one folder and unzip them. That should work. 
+Unzip and put them (the Data folder and the other folders and files) into one folder. That should work. 
 
 There have been two builds released: 
 - v3 contains the original build  
