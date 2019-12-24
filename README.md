@@ -8,7 +8,8 @@ Unzip and put them (the Data folder and the other folders and files) into one fo
 
 There have been two builds released: 
 - v3 contains the original build  
-- v4 contains the original build + a Holo DLC 
+- v4 contains the original build + a Holo DLC   
+- v5 contains v4 + a bug fix and minor upgrades
 
 Controls:   
 a,d,w,s: movement;  
